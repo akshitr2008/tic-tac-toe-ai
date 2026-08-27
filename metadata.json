@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A polished, modern, and responsive Tic Tac Toe college web application with user authentication, custom player symbols (X and ♥), game mode selectors, and dark/light theming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
